@@ -4,25 +4,31 @@
 
 ### Dockers 本地持久化方案
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+1、基于本地文件系统的Volume
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+2、基于plugin的Volume
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
+
+
+### Dockers 云存储（devicemapper）
+
+```markdown
+1、ThinPool原理
+
+2、环境准备
+
+3、docker中dm盘挂载原理
+
+**Bold** and _Italic_ and `Code` text
+[Link](url) and ![Image](src)
+```
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
