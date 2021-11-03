@@ -23,7 +23,7 @@
 [Link](https://docs.docker.com/storage/storagedriver/device-mapper-driver/) 
 
 2.1、查看docker 默认使用的存储
-![image](https://user-images.githubusercontent.com/18734489/140094701-3d7f481e-f702-4120-bd3f-ee98b87df665.png)
+![Image](C:\Users\kaini\Desktop\mapper\1.png)
 
 
 3、docker中dm盘挂载原理
